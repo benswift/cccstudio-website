@@ -32,6 +32,8 @@ github_username:  anurscs/cccstudio
 theme: bulma-clean-theme
 plugins:
   # - jekyll-feed
+sass:
+    sass_dir: assets/css
 
 # Exclude from processing.
 # The following items will not be processed, by default.

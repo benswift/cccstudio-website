@@ -1,0 +1,12 @@
+---
+# this is where the bulma customisation stuff goes
+---
+
+$primary: #8e44ad;
+
+@import "alegreya-sans.scss";
+
+$family-sans-serif: "Alegreya Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+
+// import main CSS file from theme
+@import "main";
