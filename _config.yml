@@ -21,7 +21,7 @@
 title: c/c/c studio
 email: ben.swift@anu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  The homepage of the c/c/c studio - a research & creative practice collective
+  The homepage of the c/c/c studio, a research & creative practice collective
   in the ANU Research School of Computer Science
 
 baseurl: "" # the subpath of your site, e.g. /blog
