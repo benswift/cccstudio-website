@@ -1,0 +1,10 @@
+- name: People
+  link: /people/
+- name: Projects
+  link: /projects/
+- name: Friends
+  link: /friends/
+- name: Blog
+  link: /blog/
+- name: Contact
+  link: /contact/

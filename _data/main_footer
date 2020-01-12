@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: "Licence: by-nc-sa 4.0"
+  link: "https://creativecommons.org/licenses/by-nc-sa/4.0/"

@@ -1,0 +1,33 @@
+intro: |-
+items:
+  - title: Ben Swift
+    subtitle: Director
+    description: |-
+      Ben is the founder of the c/c/c studio. He's a multidisiplinary researcher and Senior Lecturer in the [Research School of Computer Science](https://cs.anu.edu.au/) at the Australian National University.
+    features:
+      - one
+      - two
+    features_styles: is-centered is-outlined is-primary
+    image: https://via.placeholder.com/1024x788
+    image_ratio: is-16by9
+    link: "https://benswift.me"
+    link_text: benswift.me
+    tags: livecoding,LENS,languages
+    github: benswift
+
+  - title: Charles Martin
+    subtitle: Associate Director
+    description: |-
+      Charles is a researcher in music technology, machine learning, and creative interaction and a Lecturer in the [Research School of Computer Science](https://cs.anu.edu.au/) at the Australian National University.
+
+      It's ok, he's got a [soundcloud](https://soundcloud.com/charlesmartin).
+    features:
+      - one
+      - two
+    features_styles: is-centered is-outlined is-primary
+    image: https://via.placeholder.com/1024x788
+    image_ratio: is-16by9
+    link: "https://charlesmartin.com.au"
+    link_text: charlesmartin.com.au
+    tags: musical-AI,LENS,percussion,iOS
+    github: cpmpercussion
